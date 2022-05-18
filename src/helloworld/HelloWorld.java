@@ -22,4 +22,8 @@ public class HelloWorld {
         System.out.println(v);
     }
     
+    public void test() {
+        System.out.print("This will never print");
+    }
+    
 }
